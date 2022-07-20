@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "datetime": "Sat May 28 16:00:40 2022",
+            "isOn": "On",
+            "outPutValue": "aaaaa",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:15 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:19 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:23 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:26 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:27 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:28 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:48 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:55 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:58 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:59 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:07:03 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:07:04 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:16 2022",
+            "isOn": "On",
+            "outPutValue": "m1",
+            "registervalue": 0
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:20 2022",
+            "isOn": "Off",
+            "outPutValue": "m1",
+            "registervalue": 0
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:22 2022",
+            "isOn": "On",
+            "outPutValue": "m2",
+            "registervalue": 1
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:26 2022",
+            "isOn": "Off",
+            "outPutValue": "m2",
+            "registervalue": 1
+        },
+        {
+            "datetime": "Wed Jul 13 11:13:01 2022",
+            "isOn": "On",
+            "outPutValue": "m2",
+            "registervalue": 8193
+        },
+        {
+            "datetime": "Sat May 28 16:00:40 2022",
+            "isOn": "On",
+            "outPutValue": "aaaaa",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:15 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:19 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:23 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:26 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:27 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 11:56:28 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:48 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:55 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:58 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:06:59 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:07:03 2022",
+            "isOn": "Off",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Fri Jul  8 12:07:04 2022",
+            "isOn": "On",
+            "outPutValue": "m4",
+            "registervalue": 8192
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:16 2022",
+            "isOn": "On",
+            "outPutValue": "m1",
+            "registervalue": 0
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:20 2022",
+            "isOn": "Off",
+            "outPutValue": "m1",
+            "registervalue": 0
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:22 2022",
+            "isOn": "On",
+            "outPutValue": "m2",
+            "registervalue": 1
+        },
+        {
+            "datetime": "Tue Jul 12 13:48:26 2022",
+            "isOn": "Off",
+            "outPutValue": "m2",
+            "registervalue": 1
+        },
+        {
+            "datetime": "Wed Jul 13 11:13:01 2022",
+            "isOn": "On",
+            "outPutValue": "m2",
+            "registervalue": 8193
+        },
+        {
+            "datetime": "Wed Jul 13 11:13:01 2022",
+            "isOn": "On",
+            "outPutValue": "m2",
+            "registervalue": 8193
+        }
+    ]
+}
